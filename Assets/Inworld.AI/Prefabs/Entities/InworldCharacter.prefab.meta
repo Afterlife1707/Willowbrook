@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d22bd8b2bca97c14295d2f6d73499a8a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Prefabs/Entities/InworldCharacter.prefab
+  uploadId: 617388

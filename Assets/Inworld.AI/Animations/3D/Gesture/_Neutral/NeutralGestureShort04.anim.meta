@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f3b9d6ed289e27418b9e66ad1617096
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/_Neutral/NeutralGestureShort04.anim
+  uploadId: 617388

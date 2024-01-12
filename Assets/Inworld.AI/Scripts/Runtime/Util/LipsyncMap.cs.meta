@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 372eb6f6ea4b496da682a65a9edd4815
+timeCreated: 1690230690
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/Util/LipsyncMap.cs
+  uploadId: 617388

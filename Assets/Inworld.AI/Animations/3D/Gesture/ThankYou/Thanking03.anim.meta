@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17b6cacd65aad624996d93a6769fa303
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/ThankYou/Thanking03.anim
+  uploadId: 617388

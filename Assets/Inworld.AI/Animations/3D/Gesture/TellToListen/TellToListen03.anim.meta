@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73b8677b637fbf2419b50c3e507dfa1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/TellToListen/TellToListen03.anim
+  uploadId: 617388

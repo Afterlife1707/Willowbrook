@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Jane
+  m_EditorClassIdentifier: 
+  characterName: Jane
+  brain: workspaces/assignment_1/characters/jane_copy
+  avatar: {fileID: 0}
+  workspace: workspaces/assignment_1
+  currentScene: workspaces/assignment_1/characters/jane_copy
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: 758efe07584fe9240813683c90460de1, type: 3}
+  index: 0
+  triggers: []
+  scenes:
+  - workspaces/assignment_1/scenes/a_suburban_town_with_small_buildings_and_roads
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/71a4620c-b5f7-4c6b-9f3b-6afed7f3adcd.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/71a4620c-b5f7-4c6b-9f3b-6afed7f3adcd_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/71a4620c-b5f7-4c6b-9f3b-6afed7f3adcd_portrait.jpg
+  characterID: 02dde013-a917-409c-b2fc-a3ee7fb5e808

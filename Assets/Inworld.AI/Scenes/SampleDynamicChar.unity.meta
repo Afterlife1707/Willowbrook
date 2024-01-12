@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eabb358582f3fe94e844f07e9d6c96ea
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scenes/SampleDynamicChar.unity
+  uploadId: 617388

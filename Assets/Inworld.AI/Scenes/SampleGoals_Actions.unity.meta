@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1765ca4a3060db74fa69cf461f295c87
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scenes/SampleGoals_Actions.unity
+  uploadId: 617388

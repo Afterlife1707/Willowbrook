@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfcf4b1fe6dc40642898a159d4f95af3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/Greetings/Greeting06.anim
+  uploadId: 617388

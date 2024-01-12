@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66211d19cb1d95244b189c19b6ec319a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/Happy/HappyGestureShort04.anim
+  uploadId: 617388

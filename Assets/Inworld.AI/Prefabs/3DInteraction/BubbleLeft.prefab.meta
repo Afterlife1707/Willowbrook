@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e31716df34c4f04a8a382ad03c5790d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Prefabs/3DInteraction/BubbleLeft.prefab
+  uploadId: 617388

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 16115a1277f94a41aaecb0f4a357ce71
+timeCreated: 1680563959
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/Sample/DynamicCharCanvas.cs
+  uploadId: 617388

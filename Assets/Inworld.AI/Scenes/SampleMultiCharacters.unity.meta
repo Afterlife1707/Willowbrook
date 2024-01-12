@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f2c052b36676ee543bcb4ba30e94c2dd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scenes/SampleMultiCharacters.unity
+  uploadId: 617388

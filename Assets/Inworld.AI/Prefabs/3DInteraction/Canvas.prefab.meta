@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f43f39a912014bb4ba362e0cc90fa5ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Prefabs/3DInteraction/Canvas.prefab
+  uploadId: 617388

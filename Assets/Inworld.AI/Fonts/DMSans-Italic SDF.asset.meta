@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43bf863e630e02a4ba2baf8e78e96b17
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Fonts/DMSans-Italic SDF.asset
+  uploadId: 617388

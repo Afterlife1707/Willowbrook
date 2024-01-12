@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ecd6a04a0989ee34f9f188e57c464ac3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Plugins/ThirdParty/GLTFUtility/Scripts/Spec/GLTFCamera.cs
+  uploadId: 617388

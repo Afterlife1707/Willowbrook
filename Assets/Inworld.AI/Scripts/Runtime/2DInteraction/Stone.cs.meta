@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0449dd3404114f549971a726059cb15b
+timeCreated: 1673385548
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/2DInteraction/Stone.cs
+  uploadId: 617388

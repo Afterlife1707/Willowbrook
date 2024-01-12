@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f2a5dc57ac23794895db6c822b99cdf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/Confuse/Confused01.anim
+  uploadId: 617388

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ba097272761c4362afddf20d388e3560
+timeCreated: 1655318597
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/Model/IAvatarLoader.cs
+  uploadId: 617388

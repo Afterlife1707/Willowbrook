@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4108558aa3eb4fd69aa7f345e218f7b6
+timeCreated: 1659037301
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/Model/IEyeHeadAnimLoader.cs
+  uploadId: 617388

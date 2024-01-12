@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45142416efac59248b62f0cde30eb3f9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scenes/InnequinBasic.unity
+  uploadId: 617388

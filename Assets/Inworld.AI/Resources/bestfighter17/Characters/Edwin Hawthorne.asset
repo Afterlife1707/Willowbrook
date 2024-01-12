@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Edwin Hawthorne
+  m_EditorClassIdentifier: 
+  characterName: Edwin Hawthorne
+  brain: workspaces/assignment_1/characters/edwin_hawthorne
+  avatar: {fileID: 0}
+  workspace: workspaces/assignment_1
+  currentScene: workspaces/assignment_1/characters/edwin_hawthorne
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: 2b6bfc11635463f4a8ec4213d8c20e2c, type: 3}
+  index: 0
+  triggers: []
+  scenes:
+  - workspaces/assignment_1/scenes/a_suburban_town_with_small_buildings_and_roads
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/101c493a-d008-41fd-83e2-61c311cd48a2.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/101c493a-d008-41fd-83e2-61c311cd48a2_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/101c493a-d008-41fd-83e2-61c311cd48a2_portrait.jpg
+  characterID: ef588f26-22c2-4c15-b25e-f9dc78927513

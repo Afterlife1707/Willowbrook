@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df2a6eb3a9f20f047b0ccc75e33f5b12
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/Locomotions/PointForward.anim
+  uploadId: 617388

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e6cc28b8dd3948ccae242470ef49213a
+timeCreated: 1655411539
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/Model/DummyAvatarLoader.cs
+  uploadId: 617388

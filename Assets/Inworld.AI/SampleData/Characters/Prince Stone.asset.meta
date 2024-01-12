@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1e2f696e9d0c8748a95e29797fcc202
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/SampleData/Characters/Prince Stone.asset
+  uploadId: 617388

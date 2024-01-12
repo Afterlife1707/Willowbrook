@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 63e95357b25840de8fa9d691b441b3c8
+timeCreated: 1672340980
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/3DInteraction/InworldLipAnimation.cs
+  uploadId: 617388

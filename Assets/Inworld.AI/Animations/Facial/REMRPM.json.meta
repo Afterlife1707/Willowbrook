@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2508d2b60f15f594898a7903423b02da
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/Facial/REMRPM.json
+  uploadId: 617388

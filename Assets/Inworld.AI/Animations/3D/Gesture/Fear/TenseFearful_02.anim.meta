@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5312ae29ed6de6d40a30f897de319fc5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/Fear/TenseFearful_02.anim
+  uploadId: 617388

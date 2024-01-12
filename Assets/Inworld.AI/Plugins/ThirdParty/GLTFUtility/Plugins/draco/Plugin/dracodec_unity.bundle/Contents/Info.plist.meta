@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e981ecc91dd4264397170fc0e11094a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Plugins/ThirdParty/GLTFUtility/Plugins/draco/Plugin/dracodec_unity.bundle/Contents/Info.plist
+  uploadId: 617388

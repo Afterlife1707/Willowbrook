@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ce4ec21c80444f178a13b8fb58aa53b5
+timeCreated: 1673386067
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/2DInteraction/Controller2D.cs
+  uploadId: 617388

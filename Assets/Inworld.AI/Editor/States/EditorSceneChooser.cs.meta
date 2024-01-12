@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e954965e046e4964a4ec1ca53a9eb384
+timeCreated: 1660839835
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Editor/States/EditorSceneChooser.cs
+  uploadId: 617388

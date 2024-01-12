@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0b7969df95f846edb56fde2abbb9ff51
+timeCreated: 1690230558
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/Util/EmotionMap.cs
+  uploadId: 617388

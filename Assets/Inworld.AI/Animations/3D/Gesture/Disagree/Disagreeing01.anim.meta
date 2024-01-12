@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfb7b0dffc8f5dc49b7a3fd783058cfe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/Disagree/Disagreeing01.anim
+  uploadId: 617388

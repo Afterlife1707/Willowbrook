@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5024602b533211241bb0ab4fd7e088e3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Prefabs/2DInteraction/BubbleRight.prefab
+  uploadId: 617388

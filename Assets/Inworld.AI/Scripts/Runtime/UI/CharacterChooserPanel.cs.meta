@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e07130e669cd48d4b2b2c73e80880078
+timeCreated: 1669931941
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/UI/CharacterChooserPanel.cs
+  uploadId: 617388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 154e2fc5bed5f2049a0e98f5266ac44e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/_Neutral/NeutralGestureLong02.anim
+  uploadId: 617388

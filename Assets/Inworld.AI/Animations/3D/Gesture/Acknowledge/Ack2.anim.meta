@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcae94d6e06ba9d488914dcd82c58862
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/Gesture/Acknowledge/Ack2.anim
+  uploadId: 617388

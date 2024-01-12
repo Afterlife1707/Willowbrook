@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5d304b8d176245c88a52feeafc3eebd7
+timeCreated: 1655440275
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/Chat/ChatPanel3D.cs
+  uploadId: 617388

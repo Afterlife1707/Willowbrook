@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85fcf327b53c7b04f9b01f458b75dc1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/2D/Neutral.anim
+  uploadId: 617388

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 32d25413126f4ec88b36d2fec2ad7394
+timeCreated: 1673055730
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Scripts/Runtime/UI/SwitchButton.cs
+  uploadId: 617388

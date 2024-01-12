@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2826211dfbf4fc541b5e245c5218f9ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/2D/Fear.anim
+  uploadId: 617388

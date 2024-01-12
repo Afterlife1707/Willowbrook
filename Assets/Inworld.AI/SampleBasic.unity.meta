@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e99311c2ade972543b38ddddb1c3b305
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/SampleBasic.unity
+  uploadId: 617388

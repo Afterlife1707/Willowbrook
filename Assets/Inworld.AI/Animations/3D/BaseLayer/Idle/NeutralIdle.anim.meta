@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92d2a41fd41a3224aa2e605ed7cf7051
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/3D/BaseLayer/Idle/NeutralIdle.anim
+  uploadId: 617388

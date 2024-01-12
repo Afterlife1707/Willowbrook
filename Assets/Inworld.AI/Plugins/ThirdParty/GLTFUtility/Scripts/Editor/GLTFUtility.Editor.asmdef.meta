@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56f0af5eabd0f8244a313552ef7d963e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Plugins/ThirdParty/GLTFUtility/Scripts/Editor/GLTFUtility.Editor.asmdef
+  uploadId: 617388

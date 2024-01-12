@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aef1beb744e36274998482fd1fbd447f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Prefabs/Entities/GLTFAvatarLoader.prefab
+  uploadId: 617388

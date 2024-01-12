@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6bb7ec9e51b03b94683d87e8558274e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229406
+  packageName: AI NPC Engine - Dialogue & Behavior for Unity - Inworld
+  packageVersion: 2.2.2
+  assetPath: Assets/Inworld.AI/Animations/2D/Emotes.controller
+  uploadId: 617388
